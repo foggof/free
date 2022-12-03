@@ -1,0 +1,28 @@
+body{
+    position: relative;
+    background-color:rgb(177, 70, 35) ;
+    margin: 0 auto;
+    image-rendering: auto;
+}
+/* container */
+.container{
+    width: 650px;
+	margin: 0 auto;
+
+    
+}
+.Fresatosh{
+    font-size: 45px;
+    color: rgb(32, 10, 104);
+}
+.tex{
+    font-size: 35px;
+    color: rgb(33, 24, 30);
+}
+.tex1{
+    font-size: 25;
+}
+h1{
+    font-size: 50px;
+}
+
